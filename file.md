@@ -8,19 +8,19 @@ Results-driven Data Engineer with 5+ years of experience designing and implement
 
 ## Experience
 
-## Senior Data Engineer
+### Senior Data Engineer
 
 **Onfly** · Remote · 2025 – Present
 Working with Airflow, Spark, Kafka and Kubernetes in a modern, container-
 based environment.
 
-## Mid-Level Data Engineer
+### Mid-Level Data Engineer
 **Mercantil do Brasil** · Remote · 2021 – 2024
 Built and optimized pipelines using Python, PySpark, Airflow and Snowflake.
 Automated workflows and infrastructure using Docker, Kubernetes, AWS
 and GCP tools.
 
-## Data Analyst Intern
+### Data Analyst Intern
 
 **Mercantil do Brasil** · Remote · 2019 – 2021
 Developed ETL processes, dashboards (Power BI) and performed data
