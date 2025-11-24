@@ -1,6 +1,6 @@
 # Pedro Jesus
 
-Linkedin: _@pedrohenriquecordeiro_ | Email: _pedrohcordeiroj@gmail.com | Github: _@pedrohenriquecordeiro_
+Linkedin: _@pedrohenriquecordeiro_ | Email: _pedrohcordeiroj@gmail.com_ | Github: _@pedrohenriquecordeiro_
 
 ## About Me
 
