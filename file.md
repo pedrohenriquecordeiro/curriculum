@@ -29,6 +29,7 @@ modeling in SQL and Python.
 ## Education
 
 **Centro Federal de Educação Tecnológica de Minas Gerais** · 2016 – 2021
+
 Bachelor’s in Computer Engineering
 
 ## Certifications
