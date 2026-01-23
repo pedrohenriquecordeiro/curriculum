@@ -8,10 +8,6 @@ Sou Engenheiro de Dados com mais de 5 anos de experiência construindo soluçõe
 
 Tenho forte domínio de **Python**, **Apache Spark**, **Apache Airflow**, **Apache Kafka** e **Kubernetes**, além de vivência sólida em **nuvem** (AWS, GCP, Snowflake) e em práticas de **DevOps** (Docker, Git, Terraform, Helm). Gosto de trabalhar com observabilidade e governança (monitoramento, SLAs, qualidade de dados, linhagem e padronização), reduzindo falhas em produção e melhorando previsibilidade.
 
-Gosto de trabalhar de forma colaborativa e orientada a resultado: busco simplificar processos complexos, automatizar o que é repetitivo e entregar soluções que aceleram decisões e aumentam eficiência operacional.
-
-
-
 
 ## Experiência
 
@@ -19,9 +15,9 @@ Gosto de trabalhar de forma colaborativa e orientada a resultado: busco simplifi
 
 **Onfly** · Remoto · 2025 – Atual
 
-Atuo no desenvolvimento e evolução de pipelines e integrações em um ambiente moderno, totalmente containerizado, utilizando **Airflow**, **Spark**, **Kafka** e **Kubernetes**.
+Atuo no desenvolvimento e evolução de pipelines e integrações em um ambiente moderno, totalmente containerizado, utilizando **Airflow**, **Spark** e **Kubernetes**.
 
-- Construção e manutenção de pipelines **ETL/ELT** com foco em robustez, reprocessamento seguro e execução incremental..
+- Construção e manutenção de pipelines **ETL/ELT** com foco em robustez, reprocessamento seguro e execução incremental.
 - Evolução de padrões de engenharia (versionamento, automação, parametrização, padronização de logs e métricas) para aumentar confiabilidade e reduzir incidentes.
 - Suporte a demandas de negócio com entregas voltadas para consumo analítico (camadas Silver/Gold, views e tabelas para BI), priorizando performance e custo.
 - Melhoria contínua de observabilidade (alertas, SLAs, monitoramento de execução e qualidade), com foco em identificar gargalos e antecipar problemas em produção.
